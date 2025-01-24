@@ -20,7 +20,7 @@ A dark digital artifact embodying ancient rituals in code. Ask questions and rec
 ## 🛠️ Установка / Installation  
 1. Клонируйте репозиторий:  
 ```bash 
-git clone https://github.com/your-username/ouija-board.git
+git clone https://github.com/Sharikfi/oija-board.git
 ```
 
 2. Установите зависимости:
