@@ -1,0 +1,23 @@
+{
+  "name": "oija-board",
+  "version": "1.0.0",
+  "description": "real oija board for terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ouija.js"
+  },
+  "keywords": [
+    "oija",
+    "ghost",
+    "paranormal",
+    "javascript",
+    "terminal"
+  ],
+  "author": "sharikfi, simonsays2310",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "readline": "^1.3.0"
+  }
+}
